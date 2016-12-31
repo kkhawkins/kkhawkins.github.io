@@ -12,8 +12,8 @@ image:
 ---
 
 <a href="/images/MA1.jpg"><img src="/images/MA1.jpg"></a>
-&nbsp; 
-### Primary research interests:  
+
+## Primary research interests:  
 
 * Population Genomics: ddRADseq / UCE bioinformatics and phylogenetics
 * Evolution: genomic species limits 
