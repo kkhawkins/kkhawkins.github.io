@@ -10,9 +10,7 @@ image:
   credit: 
   creditlink: 
 ---
-
 <a href="/images/MA1.jpg"><img src="/images/MA1.jpg"></a>
-
 &nbsp; 
 
 ## Primary research interests:  
