@@ -5,7 +5,7 @@ modified: 2016-12-27 11:40
 tags: [publications]
 image:
   feature: header_redriver.png
-  credit: dereneaton
+  credit: 
   creditlink: 
 share: false
 ---
