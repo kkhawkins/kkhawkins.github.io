@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: My Research
+  url: /about/
+
+- title: News
+  url: /posts/
+
+- title: Publications
+  url: /publications/
+
+#- title: Software
+#  url: /software/
+
+- title: The Miller Lab @
+  url: http://mj-miller.net
+
+- title: Sam Noble Museum of Natural History
+  url: http://samnoblemuseum.ou.edu/

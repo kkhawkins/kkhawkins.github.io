@@ -1,0 +1,25 @@
+<div class="navigation-wrapper">
+	<div class="site-name">
+       <img class="pull-left logo" src="{{ ASSET_PATH }}/images/logo-2.giff" align="left" width="25" height="50" type="image/svg+xml">		
+		<font size="+1">
+		<a href="{{ site.url }}/">{{ site.title }}</a>
+        <a href="/">
+
+        </a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation"> 
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        {% for link in site.data.navigation %}
+                                    
+				    {% if link.url contains 'http' %}
+				        {% assign domain = '' %}
+				        {% else %}
+				        {% assign domain = site.url %}
+				    {% endif %}
+				    <li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li></fonts>
+				{% endfor %}
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
