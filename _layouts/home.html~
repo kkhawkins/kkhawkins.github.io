@@ -44,8 +44,6 @@
 
 
  <div id="index">
- <div id=container">
-<div id=right>
     <h3><a href="{{ site.url}}/posts/">Recent Posts</a></h3>
     {% for post in site.posts limit:5 %}    
     <article>
@@ -58,7 +56,6 @@
     </article>
     {% endfor %}
   </div><!-- /#index -->
-</div>
 </div><!-- /#main -->
 
 <div class="footer-wrap">

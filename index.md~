@@ -15,8 +15,10 @@ Feel free to get in touch for questions or comments!
 
 <div markdown="0"><a href="http://kkawhins.github.io/images/CV/HawkinsKK_CV.v.Dec16.pdf" class="btn">Curriculum Vitae</a></div>
 
-### Contact Me:
 
+
+
+** Contact Me **
   
 * Kevin Hawkins
 * Department of Ornithology
