@@ -4,13 +4,42 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2017-01-13T09:29:03-05:00</updated>
+<updated>2017-01-19T15:17:50-05:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Kevin Hawkins</name>
   <uri>http://localhost:4000/</uri>
   <email>kevin.hawkins[at]ou.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Viral genomics at omrf]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/Viral-genomics-at-OMRF/" />
+  <id>http://localhost:4000/Viral genomics at OMRF</id>
+  <published>2017-01-18T00:00:00-05:00</published>
+  <updated>2017-01-18T00:00:00-05:00</updated>
+  <author>
+    <name>Kevin Hawkins</name>
+    <uri>http://localhost:4000</uri>
+    <email>kevin.hawkins[at]ou.edu</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;&lt;img src=&quot;/images/posts/OMRF2.jpg&quot; alt=&quot;OMRF1&quot; /&gt;
+Over the last few days Dr. Miller and I drove the 30 minute to the &lt;a href=&quot;https://omrf.org/&quot;&gt;Oklahoma Medical Research Foundation&lt;/a&gt; to complete libary preps on the cDNA viral genomics Dr. Miller obtained during his field work in Bolivia.&lt;/p&gt;
+
+&lt;p&gt;This was an a great experience learning genomic library prep of viral genomes and learn a lot about how various Illumina machines work.&lt;/p&gt;
+
+&lt;p&gt;Thank you &lt;a href=&quot;https://omrf.org/research-faculty/scientist/wiley-graham/&quot;&gt;Dr. Wiley&lt;/a&gt; for all of your help.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/OMRF1.jpg&quot; alt=&quot;Graham&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/OMRF4.jpg&quot; alt=&quot;Kevin&quot; /&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/Viral-genomics-at-OMRF/&quot;&gt;Viral genomics at omrf&lt;/a&gt; was originally published by Kevin Hawkins at &lt;a href=&quot;http://localhost:4000&quot;&gt;Kevin Hawkins&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+  </content>
+</entry>
 
 
 <entry>
