@@ -13,7 +13,7 @@ I am excited to report that the ddRAD-seq libraries for Chapter 1 (Woodpecker Sp
 ![GF/RB pic](/images/GF_RB.png)
 
 
-Furthermore, I am now collaborating on a NGS project funded through ODWC with the Broughton Lab from OU and OU PhD candidate Anuj is in the data processing stage. We are working on population genetics in a set of Chub fishes in Oklahoma. We are excited to see the cleaned data and analyze the genomic variation across various Chub populations across the great state of Oklahoma. 
+Furthermore, I am collaborating on a NGS project funded through ODWC with the [Broughton Lab from OU](http://www.biosurvey.ou.edu/dna/index.html) and OU PhD candidate [Anuj Guruacharya](http://www.anuj2054.com/). We are in the data processing stage of the project which will look population genetics in a set of Chub fishes in Oklahoma. We are excited to see the cleaned data and analyze the genomic variation across various Chub populations across the great state of Oklahoma. 
 
 ![Chub1](/images/Chub1.jpg)
 
